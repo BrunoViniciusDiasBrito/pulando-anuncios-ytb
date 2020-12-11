@@ -1,0 +1,8 @@
+.actived {
+  background-color: green;
+  transition: all 0.5s;
+  color: white;
+  border: none;
+  padding: 2% 4%;
+  cursor: pointer;
+}

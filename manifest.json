@@ -1,0 +1,13 @@
+{
+  "name": "Jump Ad",
+  "version": "1.0",
+  "description": "This quit all ad of youtube page",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "css": ["btnSyle.css"],
+      "js": ["Untitled-1.js"]
+    }
+  ]
+}
